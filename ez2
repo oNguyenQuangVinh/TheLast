@@ -5,3 +5,5 @@ ez2 vinh create
 vinh create ez2
 vinh rebase ez2
 vinh mod ez2
+master mod ez2
+vinh merge ez2
